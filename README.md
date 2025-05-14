@@ -41,5 +41,5 @@ Feel free to fork, open issues, or suggest improvements!
 
 ---
 
-**Authors:** [Kashyap Kannajyosula] [Aneesh Sudigala]
-**Contact:** [Personal: kashkanna22@gmail.com] [School: kashyapk@unc.edu]
+**Authors:** Kashyap Kannajyosula and [Aneesh Sudigala
+**Contact:** Personal: kashkanna22@gmail.com, School: kashyapk@unc.edu
